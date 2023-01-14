@@ -1,0 +1,103 @@
+{
+    "camp": {
+        "camp1": [
+            "camp1",
+            [
+                "refugee1",
+                "refugee8"
+            ],
+            true
+        ],
+        "camp2": [
+            "camp2",
+            [
+                "refugee2",
+                "refugee6",
+                "refugee7"
+            ],
+            true
+        ],
+        "camp3": [
+            "camp3",
+            [
+                "refugee3",
+                "refugee4",
+                "refugee5",
+                "refugee9"
+            ],
+            true
+        ],
+        "camp4": [
+            "camp4",
+            [
+                "refugee10",
+                "refugee11"
+            ],
+            true
+        ],
+        "camp5": [
+            "camp5",
+            [
+                "refugee12",
+                "refugee15",
+                "refugee16",
+                "refugee17",
+                "refugee18"
+            ],
+            true
+        ],
+        "camp6": [
+            "camp6",
+            [
+                "refugee13",
+                "refugee14"
+            ],
+            true
+        ],
+        "camp7": [
+            "camp7",
+            [
+                "refugee_a",
+                "refugee_b",
+                "refugee_c",
+                "refugee_d",
+                "refugee_e",
+                "refugee_f",
+                "refugee_g"
+            ],
+            true
+        ],
+        "camp8": [
+            "camp8",
+            [
+                "refugee_19",
+                "refugee22"
+            ],
+            true
+        ],
+        "camp9": [
+            "camp9",
+            [
+                "refugee_20"
+            ],
+            true
+        ],
+        "camp10": [
+            "camp10",
+            [
+                "refugee_21"
+            ],
+            true
+        ],
+        "camp11": [
+            "camp11",
+            [],
+            true
+        ],
+        "camp23": [
+            "camp23",
+            [],
+            false
+        ]
+    }
+}

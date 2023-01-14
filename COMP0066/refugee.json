@@ -1,0 +1,325 @@
+{
+    "refugee": {
+        "refugee1": [
+            "refugee1",
+            "111111",
+            true,
+            18,
+            "No pain",
+            [],
+            "camp1"
+        ],
+        "refugee2": [
+            "refugee2",
+            "122122",
+            false,
+            28,
+            "Mild pain",
+            [],
+            "camp2"
+        ],
+        "refugee3": [
+            "refugee3",
+            "133133",
+            true,
+            19,
+            "Moderate pain",
+            [
+                "refugee4",
+                "refugee5"
+            ],
+            "camp3"
+        ],
+        "refugee4": [
+            "refugee4",
+            "123123",
+            true,
+            28,
+            "Mild pain",
+            [
+                "refugee3",
+                "refugee5"
+            ],
+            "camp3"
+        ],
+        "refugee5": [
+            "refugee5",
+            "1234321",
+            false,
+            38,
+            "Severe pain",
+            [
+                "refugee3",
+                "refugee5"
+            ],
+            "camp3"
+        ],
+        "refugee6": [
+            "refugee6",
+            "321321",
+            true,
+            40,
+            "Worst pain/EMERGENCY",
+            [
+                "refugee7"
+            ],
+            "camp2"
+        ],
+        "refugee7": [
+            "refugee7",
+            "123321",
+            false,
+            39,
+            "No pain",
+            [
+                "refugee6"
+            ],
+            "camp2"
+        ],
+        "refugee8": [
+            "refugee8",
+            "789789",
+            true,
+            22,
+            "No pain",
+            [],
+            "camp1"
+        ],
+        "refugee9": [
+            "refugee9",
+            "100100",
+            false,
+            23,
+            "Mild pain",
+            [],
+            "camp3"
+        ],
+        "refugee10": [
+            "refugee10",
+            "121121",
+            true,
+            21,
+            "Moderate pain",
+            [
+                "refugee1",
+                "refugee11"
+            ],
+            "camp4"
+        ],
+        "refugee11": [
+            "refugee11",
+            "678678",
+            true,
+            29,
+            "No pain",
+            [
+                "refugee10"
+            ],
+            "camp4"
+        ],
+        "refugee12": [
+            "refugee12",
+            "male",
+            true,
+            28,
+            "Severe pain",
+            [],
+            "camp5"
+        ],
+        "refugee13": [
+            "refugee13",
+            "788788",
+            true,
+            18,
+            "Mild pain",
+            [
+                "refugee14"
+            ],
+            "camp6"
+        ],
+        "refugee14": [
+            "refugee14",
+            "345345",
+            false,
+            17,
+            "Moderate pain",
+            [
+                "refugee13"
+            ],
+            "camp6"
+        ],
+        "refugee15": [
+            "refugee15",
+            "123123",
+            true,
+            30,
+            "Mild pain",
+            [],
+            "camp5"
+        ],
+        "refugee16": [
+            "refugee16",
+            "678678",
+            true,
+            10,
+            "Severe pain",
+            [
+                "refugee17",
+                "refugee18"
+            ],
+            "camp5"
+        ],
+        "refugee17": [
+            "refugee17",
+            "123123",
+            true,
+            40,
+            "Mild pain",
+            [
+                "refugee16",
+                "refugee18"
+            ],
+            "camp5"
+        ],
+        "refugee18": [
+            "refugee18",
+            "332332",
+            false,
+            39,
+            "Mild pain",
+            [
+                "refugee16",
+                "refugee17"
+            ],
+            "camp5"
+        ],
+        "refugee_a": [
+            "refugee_a",
+            "111111",
+            true,
+            18,
+            "No pain",
+            [
+                "refugee_b",
+                "refugee_c",
+                "refugee_d",
+                "refugee_e"
+            ],
+            "camp7"
+        ],
+        "refugee_b": [
+            "refugee_b",
+            "222222",
+            false,
+            23,
+            "Mild pain",
+            [
+                "refugee_a",
+                "refugee_c",
+                "refugee_d",
+                "refugee_e"
+            ],
+            "camp7"
+        ],
+        "refugee_c": [
+            "refugee_c",
+            "212212",
+            true,
+            23,
+            "No pain",
+            [
+                "refugee_a",
+                "refugee_b",
+                "refugee_d",
+                "refugee_e"
+            ],
+            "camp7"
+        ],
+        "refugee_d": [
+            "refugee_d",
+            "233233",
+            true,
+            12,
+            "Mild pain",
+            [
+                "refugee_a",
+                "refugee_b",
+                "refugee_c",
+                "refugee_d"
+            ],
+            "camp7"
+        ],
+        "refugee_e": [
+            "refugee_e",
+            "212212",
+            false,
+            23,
+            "No pain",
+            [
+                "refugee_a",
+                "refugee_b",
+                "refugee_c",
+                "refugee_d"
+            ],
+            "camp7"
+        ],
+        "refugee_f": [
+            "refugee_f",
+            "333444",
+            false,
+            28,
+            "No pain",
+            [],
+            "camp7"
+        ],
+        "refugee_g": [
+            "refugee_g",
+            "122333",
+            true,
+            23,
+            "No pain",
+            [],
+            "camp7"
+        ],
+        "refugee_19": [
+            "refugee_19",
+            "123123",
+            true,
+            12,
+            "Mild pain",
+            [
+                "refugee20"
+            ],
+            "camp8"
+        ],
+        "refugee_20": [
+            "refugee_20",
+            "232323",
+            false,
+            34,
+            "No pain",
+            [
+                "refugee_19"
+            ],
+            "camp9"
+        ],
+        "refugee_21": [
+            "refugee_21",
+            "909090",
+            true,
+            23,
+            "No pain",
+            [],
+            "camp10"
+        ],
+        "refugee_22": [
+            "refugee_22",
+            "121212",
+            false,
+            23,
+            "Moderate pain",
+            [],
+            "camp8"
+        ]
+    }
+}

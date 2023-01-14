@@ -1,0 +1,85 @@
+{
+    "emergency_plan": {
+        "tsunami": [
+            "tsunami",
+            "tsunami",
+            "lvl1",
+            "pacific",
+            [
+                "2000",
+                "01",
+                "01"
+            ],
+            [
+                "2099",
+                "01",
+                "01"
+            ],
+            [
+                "camp1",
+                "camp2",
+                "camp3"
+            ]
+        ],
+        "earthquake": [
+            "earthquake",
+            "earthquake",
+            "lvl3",
+            "pacific",
+            [
+                "2000",
+                "01",
+                "01"
+            ],
+            [
+                "2099",
+                "01",
+                "01"
+            ],
+            [
+                "camp4",
+                "camp5",
+                "camp6"
+            ]
+        ],
+        "big wind": [
+            "big wind",
+            "big wind",
+            "lvl1",
+            "x island",
+            [
+                "2000",
+                "01",
+                "02"
+            ],
+            [
+                "2099",
+                "01",
+                "01"
+            ],
+            [
+                "camp7",
+                "camp8",
+                "camp9",
+                "camp10"
+            ]
+        ],
+        "big big fire": [
+            "big big fire",
+            "fire",
+            "big fire",
+            "london",
+            [
+                "2021",
+                "01",
+                "01"
+            ],
+            [
+                "2099",
+                "01",
+                "01"
+            ],
+            []
+        ]
+    }
+}

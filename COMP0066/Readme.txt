@@ -1,2 +1,2 @@
 Please run the program through main.py
-https://mediacentral.ucl.ac.uk/Player/gbf8JAII
+Also you can also watch the introduction video at https://mediacentral.ucl.ac.uk/Player/gbf8JAII
